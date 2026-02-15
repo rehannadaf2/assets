@@ -1,0 +1,11 @@
+{
+  "name": "Test USD",
+  "website": "https://yourwebsite.com",
+  "description": "Test USDT token on BNB Smart Chain Testnet",
+  "explorer": "https://testnet.bscscan.com/token/0xYourContractAddress",
+  "type": "BEP20",
+  "symbol": "tUSDT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xYourContractAddress"
+}
